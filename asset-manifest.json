@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/expenseapp/static/css/main.073c9b0a.css",
-    "main.js": "/expenseapp/static/js/main.fa86b97c.js",
+    "main.css": "/expenseapp/static/css/main.f1fc7cbd.css",
+    "main.js": "/expenseapp/static/js/main.3be800d7.js",
     "static/js/787.28cb0dcd.chunk.js": "/expenseapp/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/expenseapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/expenseapp/index.html",
-    "main.073c9b0a.css.map": "/expenseapp/static/css/main.073c9b0a.css.map",
-    "main.fa86b97c.js.map": "/expenseapp/static/js/main.fa86b97c.js.map",
+    "main.f1fc7cbd.css.map": "/expenseapp/static/css/main.f1fc7cbd.css.map",
+    "main.3be800d7.js.map": "/expenseapp/static/js/main.3be800d7.js.map",
     "787.28cb0dcd.chunk.js.map": "/expenseapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fa86b97c.js"
+    "static/css/main.f1fc7cbd.css",
+    "static/js/main.3be800d7.js"
   ]
 }
